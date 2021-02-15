@@ -1,0 +1,8 @@
+{ 
+	"src": "{{source}}",
+	"dst": "{{destination}}",
+	"text": "This is a sample text message",
+	"url": "http://This.is.my.callback.url.com/xyz:80",
+	"type": "sms",
+	"log": "true"
+}
