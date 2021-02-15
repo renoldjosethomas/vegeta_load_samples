@@ -1,0 +1,4 @@
+
+POST https://{{auth_id}}:{{auth_token}}@api.plivo.com/v1/Account/{{auth_id}}/Message/
+Content-Type: application/json
+@send_sms.json
